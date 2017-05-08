@@ -1,5 +1,5 @@
 # Bookmarker
-Simple LocalStorage application for bookmarking webistes. This app uses localStorage for storing bookmarks.
+Simple application for storing website urls using nothing but pure JavaScript. No jQuery or frameworks, just plain old JavaScript. This app uses Local Storage to store the bookmarks.
 
 <b>Version</b>
 
