@@ -1,10 +1,8 @@
 # Bookmarker
-Simple LocalStorage application for bookmarking webistes. It uses localStorage for storing bookmarks.
+Simple LocalStorage application for bookmarking webistes. This app uses localStorage for storing bookmarks.
 
-Version
-
+<b>Version<b>
 1.0
 
-Usage
-
+<b>Usage<b>
 Just download and open index.html. It is all client side
