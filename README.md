@@ -1,5 +1,6 @@
 # Bookmarker
-Simple application for storing website urls using nothing but pure JavaScript. No jQuery or frameworks, just plain old JavaScript. This app uses Local Storage to store the bookmarks.
+Simple application for storing website urls using pure JavaScript. </br>
+This app uses Local Storage to store the bookmarks.
 
 <b>Version</b>
 
